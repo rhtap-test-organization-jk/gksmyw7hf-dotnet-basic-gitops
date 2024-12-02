@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gksmyw7hf-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/gksmyw7hf-dotnet-basic
